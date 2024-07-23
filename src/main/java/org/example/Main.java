@@ -59,7 +59,7 @@ public class Main {
                 Thread.sleep(1000);
                 driver.findElement(By.id("address")).click();
                 driver.findElement(By.id("address")).clear();
-                driver.findElement(By.id("address")).sendKeys("rP7TAT5q9681Cjvcp1u2z5LnPWf4TnA7pA");
+                driver.findElement(By.id("address")).sendKeys("rHic6o5mRtxdn4Xm1iYBYen3gBA8Re3vwJ");
                 driver.findElement(By.id("tag")).click();
                 driver.findElement(By.id("tag")).clear();
                 driver.findElement(By.id("tag")).sendKeys(generateRandomNumber());
